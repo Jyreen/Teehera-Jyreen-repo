@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, this is a merged line in the file.
+=======
+Hello, this is a line in the file.
+>>>>>>> b1b3538e2ad1cef622060d8ec641594c88ec29c3
